@@ -1,6 +1,6 @@
 package level1;
 
-public class P06_NumberSquare {
+public class P07_NumberSquare {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1; i <= 5; i++){

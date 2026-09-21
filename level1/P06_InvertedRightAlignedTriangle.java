@@ -1,6 +1,6 @@
 package level1;
 
-public class P05_InvertedRightAlignedTriangle {
+public class P06_InvertedRightAlignedTriangle {
     public static void main(String[] args) {
         int n = 5;
 

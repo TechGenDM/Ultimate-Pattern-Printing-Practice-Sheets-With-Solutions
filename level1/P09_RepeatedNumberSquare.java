@@ -1,6 +1,6 @@
 package level1;
 
-public class P07_RepeatedNumberSquare {
+public class P09_RepeatedNumberSquare {
     public static void main(String[] args) {
         int n = 5;
         for(int i = 1; i <= n; i++){
