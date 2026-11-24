@@ -45,12 +45,13 @@ LeetCode practice happens on my [LeetCode profile](https://leetcode.com/u/TechGe
 
 | Codeforces solved | Current day | Last updated |
 | --- | --- | --- |
-| 2 | Day 1 of 182 | 2026-11-23 |
+| 4 | Day 2 of 182 | 2026-11-24 |
 
 ## Daily log
 
 | Day | Date | Problems |
 | --- | --- | --- |
+| 2 | 2026-11-24 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp) |
 | 1 | 2026-11-23 | [4A](codeforces/4A-watermelon.cpp), [71A](codeforces/71A-way-too-long-words.cpp) |
 
 ## Re-solve list
@@ -64,6 +65,7 @@ Problems I needed help with. I re-solve each one from scratch after 3 days and a
 
 | Pattern | Count | Problems |
 | --- | --- | --- |
+| Implementation | 2 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp) |
 | Math | 1 | [4A](codeforces/4A-watermelon.cpp) |
 | Strings | 1 | [71A](codeforces/71A-way-too-long-words.cpp) |
 
