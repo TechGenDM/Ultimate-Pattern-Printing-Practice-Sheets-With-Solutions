@@ -45,12 +45,13 @@ LeetCode practice happens on my [LeetCode profile](https://leetcode.com/u/TechGe
 
 | Codeforces solved | Current day | Last updated |
 | --- | --- | --- |
-| 6 | Day 3 of 182 | 2026-11-25 |
+| 8 | Day 4 of 182 | 2026-11-26 |
 
 ## Daily log
 
 | Day | Date | Problems |
 | --- | --- | --- |
+| 4 | 2026-11-26 | [339A](codeforces/339A-helpful-maths.cpp), [263A](codeforces/263A-beautiful-matrix.cpp) |
 | 3 | 2026-11-25 | [282A](codeforces/282A-bit-plus-plus.cpp), [112A](codeforces/112A-petya-and-strings.cpp) |
 | 2 | 2026-11-24 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp) |
 | 1 | 2026-11-23 | [4A](codeforces/4A-watermelon.cpp), [71A](codeforces/71A-way-too-long-words.cpp) |
@@ -66,8 +67,9 @@ Problems I needed help with. I re-solve each one from scratch after 3 days and a
 
 | Pattern | Count | Problems |
 | --- | --- | --- |
-| Implementation | 3 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp), [282A](codeforces/282A-bit-plus-plus.cpp) |
+| Implementation | 4 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp), [282A](codeforces/282A-bit-plus-plus.cpp), [263A](codeforces/263A-beautiful-matrix.cpp) |
 | Math | 1 | [4A](codeforces/4A-watermelon.cpp) |
+| Sorting | 1 | [339A](codeforces/339A-helpful-maths.cpp) |
 | Strings | 2 | [71A](codeforces/71A-way-too-long-words.cpp), [112A](codeforces/112A-petya-and-strings.cpp) |
 
 ## How each solution is written
