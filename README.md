@@ -45,13 +45,13 @@ LeetCode practice happens on my [LeetCode profile](https://leetcode.com/u/TechGe
 
 | Codeforces solved | Current day | Last updated |
 | --- | --- | --- |
-| 10 | Day 5 of 182 | 2026-11-27 |
+| 12 | Day 5 of 182 | 2026-11-27 |
 
 ## Daily log
 
 | Day | Date | Problems |
 | --- | --- | --- |
-| 5 | 2026-11-27 | Live contest: Round 1138 (Div. 3): [2292A](codeforces/2292A-picnic-for-two.cpp), [2292B](codeforces/2292B-grapefruit-juice.cpp) |
+| 5 | 2026-11-27 | Live contest: Round 1138 (Div. 3): [2292A](codeforces/2292A-picnic-for-two.cpp), [2292B](codeforces/2292B-grapefruit-juice.cpp); [281A](codeforces/281A-word-capitalization.cpp), [236A](codeforces/236A-boy-or-girl.cpp) |
 | 4 | 2026-11-26 | [339A](codeforces/339A-helpful-maths.cpp), [263A](codeforces/263A-beautiful-matrix.cpp) |
 | 3 | 2026-11-25 | [282A](codeforces/282A-bit-plus-plus.cpp), [112A](codeforces/112A-petya-and-strings.cpp) |
 | 2 | 2026-11-24 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp) |
@@ -69,10 +69,11 @@ Problems I needed help with. I re-solve each one from scratch after 3 days and a
 | Pattern | Count | Problems |
 | --- | --- | --- |
 | Greedy | 1 | [2292B](codeforces/2292B-grapefruit-juice.cpp) |
+| Hashing | 1 | [236A](codeforces/236A-boy-or-girl.cpp) |
 | Implementation | 5 | [158A](codeforces/158A-next-round.cpp), [231A](codeforces/231A-team.cpp), [282A](codeforces/282A-bit-plus-plus.cpp), [263A](codeforces/263A-beautiful-matrix.cpp), [2292A](codeforces/2292A-picnic-for-two.cpp) |
 | Math | 1 | [4A](codeforces/4A-watermelon.cpp) |
 | Sorting | 1 | [339A](codeforces/339A-helpful-maths.cpp) |
-| Strings | 2 | [71A](codeforces/71A-way-too-long-words.cpp), [112A](codeforces/112A-petya-and-strings.cpp) |
+| Strings | 3 | [71A](codeforces/71A-way-too-long-words.cpp), [112A](codeforces/112A-petya-and-strings.cpp), [281A](codeforces/281A-word-capitalization.cpp) |
 
 ## How each solution is written
 
